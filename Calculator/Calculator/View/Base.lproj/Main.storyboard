@@ -20,7 +20,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gC2-i9-XzD">
-                                        <rect key="frame" x="0.0" y="0.0" width="413" height="148.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="29.5" height="148.5"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="gC2-i9-XzD" secondAttribute="height" multiplier="413:148" id="cPe-co-2JV"/>
                                         </constraints>
